@@ -1,6 +1,8 @@
 # Lecture Notes for nyc-mhtn-ds-102620 :floppy_disk:
 
-For any new lecture notes, duplicate the notebook you will be using and rename it to something suitable (e.g ProgrammingFundamentalsI_Notes.ipynb). 
+Hello
+
+For any new lecture notes, duplicate the notebook you will be using and rename it to something suitable (e.g ProgrammingFundamentalsI_Notes.ipynb).
 
 
 # If you want to store your notes in a personal repository on GitHub
